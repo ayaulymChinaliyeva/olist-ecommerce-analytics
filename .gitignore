@@ -1,0 +1,10 @@
+# Raw Olist dataset
+data/raw/
+
+# Power BI temporary/cache files
+*.tmp
+~$*
+
+# OS files
+.DS_Store
+Thumbs.db
